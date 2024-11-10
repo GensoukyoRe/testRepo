@@ -1,0 +1,20 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "a test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GensoukyoRe/testRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GensoukyoRe/testRepo/issues"
+  },
+  "homepage": "https://github.com/GensoukyoRe/testRepo#readme"
+}
